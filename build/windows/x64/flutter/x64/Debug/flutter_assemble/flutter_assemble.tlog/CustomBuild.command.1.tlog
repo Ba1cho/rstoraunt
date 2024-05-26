@@ -1,0 +1,28 @@
+^C:\USERS\HASEE\DESKTOP\FLUTTER_PROJECT\FLUTTER_APPLICATION_5\BUILD\WINDOWS\X64\CMAKEFILES\908046D54266E4E79B613511F4F81E1D\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\OSPanel\domains\OmegaTest\omegatester-backend\omegatester-backend\src\modules\devices\flutter PROJECT_DIR=C:\Users\Hasee\Desktop\flutter_project\flutter_application_5 FLUTTER_ROOT=C:\OSPanel\domains\OmegaTest\omegatester-backend\omegatester-backend\src\modules\devices\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Hasee\Desktop\flutter_project\flutter_application_5\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Hasee\Desktop\flutter_project\flutter_application_5 FLUTTER_TARGET=C:\Users\Hasee\Desktop\flutter_project\flutter_application_5\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC81NWVhZTY4NjRiMjk2ZGQ5ZjQzYjJjYzc1NzdlYzI1NmU1YzMyYThkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Hasee\Desktop\flutter_project\flutter_application_5\.dart_tool\package_config.json C:/OSPanel/domains/OmegaTest/omegatester-backend/omegatester-backend/src/modules/devices/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HASEE\DESKTOP\FLUTTER_PROJECT\FLUTTER_APPLICATION_5\BUILD\WINDOWS\X64\CMAKEFILES\91FAF794ED2AE461CAFABF49F27A3969\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\HASEE\DESKTOP\FLUTTER_PROJECT\FLUTTER_APPLICATION_5\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Hasee/Desktop/flutter_project/flutter_application_5/windows -BC:/Users/Hasee/Desktop/flutter_project/flutter_application_5/build/windows/x64 --check-stamp-file C:/Users/Hasee/Desktop/flutter_project/flutter_application_5/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

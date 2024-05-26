@@ -1,0 +1,130 @@
+{
+   "checksum": "ca1798a849c3bc2c0dfdc0e828115397",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13292231830988882",
+            "date_last_used": "0",
+            "guid": "2b045d8e-b192-46a9-b08e-cce0144f5a35",
+            "id": "10",
+            "name": "op1.html",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/Hasee/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%20(2)/op1.html"
+         }, {
+            "date_added": "13188932670816985",
+            "date_last_used": "0",
+            "guid": "e18a0192-aba2-4677-b14e-5eca65777ebb",
+            "id": "11",
+            "name": "Amazon.co.uk – Online Shopping",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=none&locale=ru_ru&pf=all&s=amazon&tp=iefavs"
+         }, {
+            "date_added": "13188932670747955",
+            "date_last_used": "0",
+            "guid": "548a261b-ea72-4544-a6be-f643561c6c61",
+            "id": "12",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=7684&destination=booking&refclickid=websliceW1018"
+         }, {
+            "date_added": "13221161536260546",
+            "date_last_used": "0",
+            "guid": "f5fc6491-8a60-433e-b14a-9840f8a8fcab",
+            "id": "13",
+            "name": "Авиабилеты",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=416&clid=2256434-306&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13221161536258559",
+            "date_last_used": "0",
+            "guid": "abace727-9de6-4fea-9def-0933a2cfce2b",
+            "id": "14",
+            "name": "Яндекс",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=416&clid=2256434-306&from=dist_bookmark"
+         }, {
+            "date_added": "13342004885822786",
+            "date_last_used": "0",
+            "guid": "9e10fb3c-259f-4229-9ae8-6353a062496f",
+            "id": "15",
+            "name": "Яндекс Маркет",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://market.yandex.ru/?from=dist_bookmarks&win=616&clid=2413678-533"
+         } ],
+         "date_added": "13361141962611302",
+         "date_last_used": "0",
+         "date_modified": "13342004885822786",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель избранного",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13188932670801354",
+               "date_last_used": "0",
+               "guid": "3a189a5d-3cef-4f35-84f9-b9a0eae094c4",
+               "id": "8",
+               "name": "Amazon.co.uk – Online Shopping",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=none&locale=ru_ru&pf=all&s=amazon&tp=iefavs"
+            }, {
+               "date_added": "13188932670747955",
+               "date_last_used": "0",
+               "guid": "3e31b4a4-1ed6-420a-afec-2df9767bf371",
+               "id": "9",
+               "name": "Booking.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=7684&destination=booking&refclickid=iefavW1018"
+            } ],
+            "date_added": "13339419753519477",
+            "date_last_used": "0",
+            "date_modified": "13339419753519477",
+            "guid": "bd95b8cb-f216-429e-8856-0df46e0d872b",
+            "id": "7",
+            "name": "HP",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13361141962611314",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другое избранное",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13361141962611318",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Избранное на мобильных устройствах",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCKEwabGPAQAAKg4QABgBIAAoBjAAOABAABIAKhhRMjBJb1BVMlFMT0ZUTGxINjlRU2xBPT1IA6AGDBKoAQgJEqMBChxCYy9vVW1hWHQ4U1BxdjIzREt1U09tYndIZE09EiQzZTMxYjRhNC0xZWQ2LTQyMGEtYWZlYy0yZGY5NzY3YmYzNzEYACAAKAAw3PDJlaoxOKjxyZWqMUCo8cmVqjFKHHBIRk9KVmlNNlNwNXp1S09MV0QxUzlja3RWaz1aHyIduEdla01hUVNQT2RNMk11NWd3R1JQK2x4YVlGWT1lAAAAABKnAQgLEqIBChwrbHppVDBzWGVkVmJ4eWcxTFVYUXBhUm93NlU9EiRlMThhMDE5Mi1hYmEyLTQ2NzctYjE0ZS01ZWNhNjU3NzdlYmIYACAAKAAw9efJlaoxOIvsyZWqMUCL7MmVqjFKHHBWNTN4VzZNYk9BQjFDNUEybEYzd000MDdEVT1aHiIcYWdIV2RYSGRKRkVYbjRPMm5hUjRBOFNhRkFjPWUAAAAAEqgBCA4SowEKHDd4WFMzUXc0SThhQ1MrOUV0dk9xRHNCSTZBbz0SJGFiYWNlNzI3LTlkZTYtNGZlYS05ZGVmLTA5MzNhMmNmY2UyYhgAIAAoADDy58mVqjE4qOvJlaoxQKjryZWqMUocRGtzZGNJck8xYkVVQTVMVXYrUyswc2Z5U2l3PVofIh3sRXROQkVQMnNvb0tEOTZWd2VTQ2tXSlAxajVZPWUAAAAAEqgBCA0SowEKHGdYQkNSQWhjeUx6d1pjR3hMK1pXbXhFdDlPaz0SJGY1ZmM2NDkxLThhNjAtNDMzZS1iMTRhLTk4NDBmOGE4ZmNhYhgAIAAoADD258mVqjE4qezJlaoxQKnsyZWqMUocQmZEcnI5bWdSN0hvOHZiRzh2eWEwbEt2bm1RPVofIh3YL0J2b0QvaTJGODQ1RGpEMmovTXA4cFNtbzVvPWUAAAAAEqcBCAoSogEKHHBYWkorS3VXNHZMMCtUVG1odlpDTnRLMTRzYz0SJDJiMDQ1ZDhlLWIxOTItNDZhOS1iMDhlLWNjZTAxNDRmNWEzNRgAIAAoADDPna2w+i847J2tsPovQOydrbD6L0ocdzkxYjFlSnl2dTQ5Wk5Oam8wdFN1Rk1FNW9jPVoeIhw1OE9qdW9vNlpqQTFZMXlsUzZJZmtsU3hORHM9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNWE3NzZmM2UtNWNhZi01Yzk4LWI1NWMtZjYyMDgwZTNiYjc5GAAgACgAMJ++7NqxMDikle3/6S9ApJXt/+kvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKoAQgPEqMBChxuZm1XQTQzMXZvTW55M1BFaEpNTFBJdXZVZTg9EiQ5ZTEwZmIzYy0yNTlmLTQyMjktOWFlOC02MzUzYTA2MjQ5NmYYACAAKAAwgdPY4bUxONTW2OG1MUDU1tjhtTFKHEdjV3NYZEN0YTZsZ1V2clFsWVltNSs1UXNQcz1aHyId9is5OEpxS09OdlJRZjZXMGE5MytPS3BRSDMwQT1lAAAAABKoAQgMEqMBChx5QXFhWkhwY01Vd1lBbVprSnhtU1lsUmxyb3c9EiQ1NDhhMjYxYi1lYTcyLTQ1NDQtYTZiZS1mNjQzNTYxYzZjNjEYACAAKAAw9OfJlaoxOOrryZWqMUDq68mVqjFKHElMYzlKYWRHdzUvOWlQd1VFV055NXJPT3ArMD1aHyIdsDJhWGhFU2NvQUx3ckQ5bC9iM3hmU2luekZPUT1lAAAAABKnAQgHEqIBChxCL3FVQjhtcmMwOG1JQ1lnNHY1Z2RkdjhINEE9EiRiZDk1YjhjYi1mMjE2LTQyOWUtODg1Ni0wZGY0NmUwZDg3MmIYACAAKAAw8+fJlaoxOMTryZWqMUDE68mVqjFKHHY5NWsvc2JzdEpOMkVqZHQ1UUFZV0RtT1k4TT1aHiIccXV4Z3ZCcU9Sb0xHaGpKUjZYdXUvMnVXZHZRPWUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDZhYTdiZTM5LTY2MTUtNTc4YS1iZmRlLWNiODczNTA3MWEwZBgAIAAoADCfvuzasTA4uJXt/+kvQLiV7f/pL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASpwEICBKiAQocVG14Uys3UlFsMzFITC9OeDQ3c3VqbHViekRBPRIkM2ExODlhNWQtM2NlZi00ZjM1LTg0ZjktYjlhMGVhZTA5NGM0GAAgACgAMN3wyZWqMTjE8cmVqjFAxPHJlaoxShxMWSsrT3FFL3g4Q3doOHNEWS96cXVCSmVWOUU9Wh4iHHFnKzU5bXlqVmFmSUEwdXlxVzZMWFJwVFQ4OD1lAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ0MmQzMzAyMC1iYTRmLTUwNDQtOTkyNi02NzY5MzNmOTg2ZDIYACAAKAAwn77s2rEwOPaV7f/pL0D2le3/6S9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
